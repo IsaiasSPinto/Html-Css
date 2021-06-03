@@ -42,3 +42,10 @@ a:before {
     margin-right: 10px;
 }
 
+#button {
+    transition: transform 500ms;
+}
+
+#button:hover {
+    transform: scale(1.1);
+}
