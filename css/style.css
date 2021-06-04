@@ -7,16 +7,15 @@ header {
     align-items: center;
 }
 
-h1{
+#logo {
     font-family: 'Press Start 2P', sans-serif;
-    color: #F25A70;
-    text-shadow: 5px 5px 0px #000;
+    color: #D1345B;
+    text-shadow: 4px 4px 0px #000;
 }
 
 nav {
     text-align: right;
 }
-
 a {
     display: inline-flex;
     align-items: center;
@@ -30,7 +29,7 @@ a {
 
 a:before {
     content: "";
-    background-color: #F25A70;
+    background-color: #D1345B;
     width: 10px;
     height: 10px;
     margin-right: 10px;
@@ -38,7 +37,7 @@ a:before {
 
 #button {
     display: inline-block;
-    background-color: #F25A70;
+    background-color: #D1345B;
     height: 60px;
     line-height: 60px;
     padding: 0px 20px;
