@@ -1,4 +1,4 @@
-.center {
+.section {
     display: flex;
     box-sizing: border-box;
     height: 730px;
@@ -8,10 +8,11 @@
     align-items: center;
 }
 
-.center .title {
+.section .title {
     margin-bottom: 60px;
     padding-top: 50px;
     color: #FFF;
+    text-shadow: none;
 }
 
 .middle {
@@ -21,4 +22,10 @@
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
+}
+
+.section.-projetos{
+    background-color: #000;
+    height: 520px;
+    border-color: #F25A70;
 }

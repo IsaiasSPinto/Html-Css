@@ -1,0 +1,19 @@
+.projects-boxes {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.projet-box{
+    display: flex;
+    height: 280px;
+    width: 280px;
+    background-color: #7C5E99;
+    box-shadow: 10px 10px 0px #FFF;
+}
+
+.projet-box.-center {
+    background-color: #F25A70;
+}
