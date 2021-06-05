@@ -1,0 +1,28 @@
+#logo-html {
+    content: url(../../assets/img/html.png);
+    height: 90px;
+    width: 80px;
+    margin-right: 30px;
+}
+
+#logo-css {
+    content: url(../../assets/img/css.png);
+    height: 90px;
+    width: 80px;
+    margin-right: 30px;
+}
+
+#logo-java {
+    content: url(../../assets/img/js.png);
+    height: 80px;
+    width: 80px;
+    margin-right: 30px;
+}
+
+#logo-python {
+    content: url(../../assets/img/py.png);
+    height: 90px;
+    width: 80px;
+    margin-right: 30px;
+}
+

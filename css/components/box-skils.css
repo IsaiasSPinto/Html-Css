@@ -1,0 +1,21 @@
+.boxes {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-bottom: 10px;
+} 
+
+.name-skills {
+    display: flex;
+    font-family: 'Press Start 2P';
+    color: #FFF;
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+
+.wrapper-skills {
+    display: flex;
+    align-content: center;
+    height: 90px;
+    width: 430px;
+}

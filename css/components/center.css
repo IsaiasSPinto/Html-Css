@@ -20,4 +20,5 @@
     width: 960px;
     flex-wrap: wrap;
     justify-content: space-around;
+    align-items: center;
 }
