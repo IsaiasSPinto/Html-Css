@@ -1,8 +1,6 @@
-.projects-boxes {
-    height: 100%;
-    width: 100%;
+.wrapper-cards {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 
@@ -12,6 +10,7 @@
     width: 280px;
     background-color: #7C5E99;
     box-shadow: 10px 10px 0px #FFF;
+    margin-bottom: 100px;
 }
 
 .projet-box.-center {

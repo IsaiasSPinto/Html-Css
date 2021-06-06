@@ -1,7 +1,6 @@
 .boxes {
     display: flex;
-    align-items: flex-start;
-    flex-direction: column;
+    align-items: center;
     padding-bottom: 10px;
 } 
 
@@ -10,12 +9,18 @@
     font-family: 'Press Start 2P';
     color: #FFF;
     font-size: 25px;
-    padding-bottom: 15px;
+    margin-bottom: 10px;
 }
 
-.wrapper-skills {
+.boxes .skill-icon {
     display: flex;
-    align-content: center;
+    margin-right: 25px;
+    width: 90px;
     height: 90px;
-    width: 430px;
+}
+
+.boxes .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }

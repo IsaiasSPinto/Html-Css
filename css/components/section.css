@@ -1,7 +1,6 @@
 .section {
     display: flex;
     box-sizing: border-box;
-    height: 730px;
     background-color: #F25A70;
     border-bottom: 10px solid #7C5E99;
     flex-direction: column;
@@ -15,17 +14,7 @@
     text-shadow: none;
 }
 
-.middle {
-    display: flex;
-    height: 480px;
-    width: 960px;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: center;
-}
-
 .section.-projetos{
     background-color: #000;
-    height: 520px;
     border-color: #F25A70;
 }
