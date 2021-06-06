@@ -1,0 +1,7 @@
+.text-box {
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 50px;
+}
