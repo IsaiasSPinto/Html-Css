@@ -1,4 +1,4 @@
-.progress {
+.progress-bar {
     height: 40px;
     width: 320px;
     border: 5px solid #000;
@@ -6,6 +6,6 @@
     background-color: #fff;
 }
 
-.progress::-moz-progress-bar , progress::-webkit-progress-bar {
+.progress-bar::-moz-progress-bar , progress::-webkit-progress-bar {
     background-color: #7C5E99;
 }

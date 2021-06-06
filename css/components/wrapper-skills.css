@@ -6,12 +6,12 @@
     margin-right: auto;
 }
 
-.wrapper-skill .boxes {
+.wrapper-skill .box-skills {
     width: 430px;
     margin-bottom: 40px;
 }
 
-.wrapper-skill .boxes:nth-child(odd) {
+.wrapper-skill .box-skills:nth-child(odd) {
     margin-right: 100px;
 }
 

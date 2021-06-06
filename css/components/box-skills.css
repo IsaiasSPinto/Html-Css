@@ -1,4 +1,4 @@
-.boxes {
+.box-skills {
     display: flex;
     align-items: center;
     padding-bottom: 10px;
@@ -12,14 +12,14 @@
     margin-bottom: 10px;
 }
 
-.boxes .skill-icon {
+.box-skills .skill-icon {
     display: flex;
     margin-right: 25px;
     width: 90px;
     height: 90px;
 }
 
-.boxes .right {
+.box-skills .right {
     display: flex;
     flex-direction: column;
     justify-content: space-around;

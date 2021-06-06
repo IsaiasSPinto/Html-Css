@@ -1,4 +1,4 @@
-.section {
+.main-section {
     display: flex;
     box-sizing: border-box;
     background-color: #F25A70;
@@ -7,14 +7,14 @@
     align-items: center;
 }
 
-.section .title {
+.main-section .main-title {
     margin-bottom: 60px;
     padding-top: 50px;
     color: #FFF;
     text-shadow: none;
 }
 
-.section.-projetos{
+.main-section.-projetos{
     background-color: #000;
     border-color: #F25A70;
 }
