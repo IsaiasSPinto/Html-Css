@@ -31,5 +31,14 @@
     align-items: flex-start;
     padding-right: 50px;
     padding-left: 50px;
+    box-sizing: border-box;
+}
+
+.main-section.-social {
+    border: none;
+    background-color: #000;
+    flex-direction: row;
+    justify-content: center;
+    padding: 30px 0px;
 }
 
