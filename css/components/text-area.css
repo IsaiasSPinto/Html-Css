@@ -1,0 +1,10 @@
+.text-area {
+    display: flex;
+    border: 5px solid #000;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.text-area.-msg {
+    height: 320px;
+}

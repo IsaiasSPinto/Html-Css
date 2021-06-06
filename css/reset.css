@@ -14,4 +14,10 @@ button {
 progress {
     appearance: none;
     -webkit-appearance: none;
-  }
+}
+
+textarea {
+    appearance: none;
+    resize: none;
+}
+

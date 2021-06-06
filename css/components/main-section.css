@@ -12,6 +12,7 @@
     padding-top: 50px;
     color: #FFF;
     text-shadow: none;
+    align-self: center;
 }
 
 .main-section.-projetos{
@@ -23,3 +24,12 @@
     background-color: #7C5E99;
     border-color: #000;
 }
+
+.main-section.-contatos {
+    background-color: #3A4042;
+    border: none;
+    align-items: flex-start;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+

@@ -1,0 +1,5 @@
+.wrapper-text {
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+}

@@ -17,3 +17,12 @@
 .main-button:hover {
     transform: scale(1.08);
 }
+
+.main-section.-contatos .main-button {
+    width: 1170px;
+    text-align: center;
+    font-family: 'Fira Code';
+    font-weight: 300;
+    box-sizing: border-box;
+}
+
