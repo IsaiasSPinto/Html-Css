@@ -13,4 +13,5 @@ button {
 
 progress {
     appearance: none;
-}
+    -webkit-appearance: none;
+  }
