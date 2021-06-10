@@ -25,15 +25,6 @@
     border-color: #000;
 }
 
-.main-section.-contatos {
-    background-color: #3A4042;
-    border: none;
-    align-items: flex-start;
-    padding-right: 50px;
-    padding-left: 50px;
-    box-sizing: border-box;
-}
-
 .main-section.-social {
     border: none;
     background-color: #000;

@@ -30,6 +30,7 @@
         <link rel="stylesheet" href="css/components/text-area.css">
         <link rel="stylesheet" href="css/components/wrapper-text.css">
         <link rel="stylesheet" href="css/components/social-logo.css">
+        <link rel="stylesheet" href="css/components/main-form.css">
     </head>
 
     <body>
@@ -133,21 +134,21 @@
             </article>
         </section>
     
-        <section class="main-section -contatos">
-            <h1 class="main-title">Contatos</h1>
-            <form class="wrapper-text">
+            
+            <form class="main-form">
+                <legend class="main-title">Contatos</legend>
+
                 <label for="name" class="main-paragraph">Nome</label>
-                <input id="name" type="text" class="text-area">
+                <input id="name" type="text" class="text-area" required>
                 
                 <label for="email" class="main-paragraph">Email</label>
-                <input id="email" type="email" class="text-area">
+                <input id="email" type="email" class="text-area" required>
 
                 <label for="mensagem" class="main-paragraph">Mensagem</label>
-                <textarea id="mensagem" class="text-area -msg"></textarea>
+                <textarea id="mensagem" class="text-area -msg" required></textarea>
 
                 <button type="submit" class="main-button -contatos">Enviar</button>
             </form>
-        </section>
 
         <footer class="main-section -social">
             <a href="" target="_blank">

@@ -19,13 +19,9 @@
     transform: scale(1.08);
 }
 
-.main-section.-contatos .main-button {
-    width: 100%;
-    margin-bottom: 50px;
-    margin-top: 20px;
-}
-
 .main-button.-contatos:hover {
     transform: scale(1.01);
 }
+
+
 
