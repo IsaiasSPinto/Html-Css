@@ -135,18 +135,21 @@
     
         <section class="main-section -contatos">
             <h1 class="main-title">Contatos</h1>
-            <div class="wrapper-text">
-                <h3 class="main-paragraph">Nome</h3>
-                <textarea class="text-area" rows="1" cols="1"></textarea>
-                <h3 class="main-paragraph">Email</h3>
-                <textarea class="text-area" rows="1" cols="1"></textarea>
-                <h3 class="main-paragraph">Mensagem</h3>
-                <textarea class="text-area -msg" rows="1" cols="1"></textarea>
-            </div>
-            <a class="main-button -contatos">Enviar</a>
+            <form class="wrapper-text">
+                <label for="name" class="main-paragraph">Nome</label>
+                <input id="name" type="text" class="text-area">
+                
+                <label for="email" class="main-paragraph">Email</label>
+                <input id="email" type="email" class="text-area">
+
+                <label for="mensagem" class="main-paragraph">Mensagem</label>
+                <textarea id="mensagem" class="text-area -msg"></textarea>
+
+                <button type="submit" class="main-button -contatos">Enviar</button>
+            </form>
         </section>
 
-        <section class="main-section -social">
+        <footer class="main-section -social">
             <a href="" target="_blank">
                 <img class="social-logo" src="assets/img/twitter 1.png" alt="">
             </a>
@@ -156,7 +159,7 @@
             <a href="" target="_blank">
                 <img class="social-logo" src="assets/img/discord 1.png" alt="">
             </a>
-        </section>
+        </footer>
     </body>
 
 </html>

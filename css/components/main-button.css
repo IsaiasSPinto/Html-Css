@@ -19,11 +19,7 @@
 }
 
 .main-section.-contatos .main-button {
-    width: 100.75%;
-    text-align: center;
-    font-family: 'Fira Code';
-    font-weight: 300;
-    padding: 0px;
+    width: 100%;
     margin-bottom: 50px;
 }
 
