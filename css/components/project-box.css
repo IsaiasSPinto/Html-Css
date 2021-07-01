@@ -15,4 +15,14 @@
 
 .projet-box.-center {
     background-color: #F25A70;
+    justify-content: center;
+    align-items: center;
+    
 }
+
+.projet-box.-center img {
+    width: 250px;
+    height: 250px;
+   
+}
+
